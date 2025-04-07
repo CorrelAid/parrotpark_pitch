@@ -9,8 +9,7 @@ embed-resources: true
 
 ## Nutzung Proprietärer LLM-Anwendungen 
 
-- Abhängigkeit
-- Intransparenz und keine Kontrolle
+- Abhängigkeit, Intransparenz und wenig Kontrolle:
     - Datenverarbeitung
     - Ressourcenverbrauch
     - Eigenschaften und Training der Modelle
