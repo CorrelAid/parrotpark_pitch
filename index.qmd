@@ -1,0 +1,41 @@
+---
+title: "Bericht zu Parrotpark 🦜"
+author: "Jonas Stettner | CorrelAid @ CDL"
+date: 09.04.2025
+format: revealjs
+theme: solarized
+---
+
+## Nutzung Proprietärer LLM-Anwendungen 
+
+- Abhängigkeit
+- Intransparenz und keine Kontrolle
+    - Datenverarbeitung
+    - Ressourcenverbrauch
+    - Eigenschaften und Training der Modelle
+    - Funktionsweise der Einbindung von Tools wie Websuche
+- Ähnlichkeit zur Entscheidung für oder gegen Self-Hosting bzw. Open Source, aber wenn z.B. Entscheidungsprozesse von KI abhängen umso relevanter
+
+## Was ist Parrotpark? 🦜
+
+- Infrastruktur-Projekt: Self-Hosting von LLMs, LLM APIs und Frontends
+- Festgelegte Bedingungen
+    - Gemieteter Server in der EU mit so viel GPU, wie sich NPOs leisten könnten (20GB)
+    - Hosting von Open Modellen
+    - Output in deutscher Sprache
+- Research and Development: Wie weit kommt man unter den Bedingungen, welche Anwendungen lassen sich umsetzen?
+
+## Umsetzung
+
+- IaC (Infrastruktur as Code): Replizierbare Infrastruktur durch Deklaration als Code
+- Quantisierung kleinerer Modelle 
+- Verwendung von vorhandenen Open Source Projekten
+    - LLM Inferenz-Server 
+    - Frontends zu Interaktion mit LLMs
+- Bisher Verzicht auf Finetuning, aber stattdessen Prompt Optimization für bestimmte Anwendungen
+
+## Demonstration
+<img style="float: left; margin-right: 50px" src="images/image.png"/>
+
+1. GUI
+2. Messung des Stromverbrauchs
