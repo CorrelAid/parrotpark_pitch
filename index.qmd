@@ -4,7 +4,7 @@ author: "Jonas Stettner | CorrelAid @ CDL"
 date: 09.04.2025
 format: revealjs
 theme: solarized
-embed-resources: true
+self-contained: true
 ---
 
 ## Nutzung Proprietärer LLM-Anwendungen 
