@@ -14,13 +14,13 @@ embed-resources: true
     - Ressourcenverbrauch
     - Eigenschaften und Training der Modelle
     - Funktionsweise der Einbindung von Tools wie Websuche
-- Ähnlichkeit zur Entscheidung für oder gegen Self-Hosting bzw. Open Source, aber wenn z.B. Entscheidungsprozesse von KI abhängen umso relevanter
+<!-- - Ähnlichkeit zur Entscheidung für oder gegen Self-Hosting bzw. Open Source, aber wenn z.B. Entscheidungsprozesse von KI abhängen umso relevanter -->
 
 ## Was ist Parrotpark? 🦜
 
 - Infrastruktur-Projekt: Self-Hosting von LLMs, LLM APIs und Frontends
 - Festgelegte Bedingungen
-    - Gemieteter Server in der EU mit so viel GPU, wie sich NPOs leisten könnten (20GB)
+    - Server in der EU mit so viel GPU, wie sich NPOs leisten könnten (20GB)
     - Hosting von Open Modellen
     - Output in deutscher Sprache
 - Research and Development: Wie weit kommt man unter den Bedingungen, welche Anwendungen lassen sich umsetzen?
